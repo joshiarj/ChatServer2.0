@@ -1,0 +1,2 @@
+add message inbox - if user is 'away', PMs get collected in that inbox as:
+"PM from xyz at DATE/TIME >> msg"
